@@ -1,4 +1,4 @@
-![image](https://github.com/robbyseguin/Observer-Class-Raylib/assets/100798593/58d5640e-e674-4541-a0cd-9f91c58be5bd)# <Bullet Hell>
+# <Bullet Hell>
 
 ## Description
 - What was your motivation = Improv performance and add a observer pattern into the project. Also the code had preconfigured calculations that were heavy during the profiler ( Example using the POW method ). 
