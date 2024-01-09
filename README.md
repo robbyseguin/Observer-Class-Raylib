@@ -1,4 +1,4 @@
-# <Bullet Hell>
+## Bullet Hell
 ![image](https://github.com/robbyseguin/Observer-Class-Raylib/assets/100798593/f65783c3-9384-4cdd-ad57-96882de2002a)
 
 
